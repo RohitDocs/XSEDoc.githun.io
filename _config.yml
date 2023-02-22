@@ -180,8 +180,8 @@ compress_html:
     envs: [development]
 
 exclude:
-  #- '*.gem'
-  #- '*.gemspec'
+  - '*.gem'
+  - '*.gemspec'
   - tools
   - README.md
   - CHANGELOG.md
