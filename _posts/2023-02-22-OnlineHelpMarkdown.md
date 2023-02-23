@@ -6,7 +6,7 @@ tags: [servers,cloud,Amazon,S3]
 ---
 # Welcome to Online Help!
 
-Lorem ipsum dolor sit amet. Eos nihil beatae non nihil voluptatum ut obcaecati aliquid sit reprehenderit nihil et modi illo aut recusandae facilis.
+dolor sit amet. Eos nihil beatae non nihil voluptatum ut obcaecati aliquid sit reprehenderit nihil et modi illo aut recusandae facilis.
 
 # Files
 
